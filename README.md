@@ -34,4 +34,4 @@ Asociación no implica causalidad. Se desconoce cómo se construyó la variable 
 
 ## Fuentes
 - Dataset: [Body Performance Data, Kaggle](https://www.kaggle.com/datasets/kukuroo3/body-performance-data)
-- Imagen del dashboard: elaboración propia.
+- Imagen del dashboard: No se utilizaron imágenes de terceros.
